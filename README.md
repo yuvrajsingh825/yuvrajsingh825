@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuvraj Singh Tomar
 
 🎓 B.Tech CSE (AI) Student at Medi-Caps University
-💡 Passionate about Artificial Intelligence, AI Devloper , Problem Solving
+💡 Passionate about Artificial Intelligence, Aspiring  AI Devloper , Problem Solving
 🚀 On a journey to become a Software Engineer in a top product-based company
 
 ---
